@@ -1,3 +1,5 @@
 # ng-strtr-prjct
+Starter project for Angular apps that exports to the Angular CLI
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ng-strtr-prjct)
+## Demo
+[StackBlitz ⚡️](https://stackblitz.com/edit/ng-strtr-prjct)
